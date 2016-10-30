@@ -1,3 +1,7 @@
 #!/usr/bin/python3
 
-print("Holi soy tu IDE :)")
+def main(msg):
+    print(msg)
+
+
+main("Holi soy tu IDE :)")
